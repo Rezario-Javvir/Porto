@@ -1,30 +1,15 @@
-@font-face {
-    font-family: PIxel-head;
-    src: url(/font/PixelGrunge.ttf);
-}
-@font-face {
-    font-family: Pixel;
-    src: url(/font/Pixelon-OGALo.ttf);
-}
-@font-face {
-    font-family: Born2b;
-    src: url(/font/Born2bSportyFS.otf);
-}
-@font-face {
-    font-family: Pixeboy;
-    src: url(/font/Pixeboy-z8XGD.ttf);
-}
+
 @font-face {
     font-family: PoppinsBold;
-    src: url(/font/poppins.bold.ttf);
+    src: url(poppins.bold.ttf);
 }
 @font-face {
     font-family: PoppinsReg;
-    src: url(/font/poppins.regular.ttf);
+    src: url(poppins.regular.ttf);
 }
 @font-face {
     font-family: PoppinsSemBold;
-    src: url(/font/poppins.semibold.ttf);
+    src: url(poppins.semibold.ttf);
 }
 *{
     box-sizing: border-box;
